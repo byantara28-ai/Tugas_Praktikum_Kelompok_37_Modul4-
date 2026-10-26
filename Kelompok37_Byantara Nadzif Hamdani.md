@@ -5,7 +5,7 @@
 # Watermark: Kelompok 37
 # ================================================
  
-# ---------- FUNCTION (Return Type) ----------
+# ---------- FUNCTION (Return Type) -----------
  
 def hitung_estimasi_waktu(jumlah_peserta,
                            waktu_per_orang):
